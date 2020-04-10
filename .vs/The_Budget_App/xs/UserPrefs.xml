@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{FE24AC96-DFBC-4AE1-B8D3-A5F5E34472D9}|Default">
+  <MonoDevelop.Ide.ItemProperties.The__Budget__App FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="app.js">
+    <Files>
+      <File FileName="style.css" Line="321" Column="6" />
+      <File FileName="app.js" Line="1" Column="1" />
+      <File FileName="index.html" Line="124" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="The_Budget_App" expanded="True">
+            <Node name="The_Budget_App" expanded="True">
+              <Node name="index.html" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
